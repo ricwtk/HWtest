@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HWtest</string>
+    <string name="get_last_location_button">Get last known location</string>
+    <string name="get_sensor_list_button">Get sensor list</string>
+</resources>
